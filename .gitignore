@@ -22,7 +22,7 @@ db.sqlite3
 
 # Windows
 Thumbs.db*
-ehthumbs.db
+ehthumbs*.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 
